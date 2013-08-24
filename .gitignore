@@ -1,0 +1,1 @@
+$ make PROFILE=BUILD install
